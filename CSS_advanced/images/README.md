@@ -42,6 +42,7 @@ These assets are typically linked in the HTML and styled with CSS for positionin
 Example:
 ```html
 <img src="images/pic-work-01.jpg" alt="Featured Project 1">
+```
 
 ---
 
