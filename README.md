@@ -23,10 +23,6 @@ This repository contains educational content and exercises focused on front-end 
 
 The goal of this repository is to provide hands-on experience with real-world front-end development practices and improve fluency with modern web technologies.
 
-## 📝 Author
-
-- GitHub: [M0simi](https://github.com/M0simi)
-
 ---
 
 ## ✍️ Author
